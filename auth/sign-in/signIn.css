@@ -118,3 +118,11 @@ p {
     transition: 0.2s ease-in;
   }
 }
+
+.logo-container {
+  position: absolute;
+  inset: 15px 10px;
+}
+.logo {
+  width: 60px;
+}

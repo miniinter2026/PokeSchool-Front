@@ -192,3 +192,11 @@ li {
     opacity: 1;
   }
 }
+
+.logo-container {
+  position: absolute;
+  inset: 15px 10px;
+}
+.logo {
+  width: 60px;
+}
